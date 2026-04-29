@@ -69,7 +69,7 @@
           <div class="w-auto">
             <span
               class="bg-silver p-2 text-right leading-trim text-edge-cap font-syne font-bold text-base text-black"
-              >Detalii Coordonator</span
+              >Detalii Coordonatori</span
             >
           </div>
           <div class="flex flex-row gap-4 items-center">
@@ -77,32 +77,99 @@
             <div
               class="text-white text-right leading-trim text-edge-cap font-syne font-bold text-[14px] md:text-base"
             >
-              TBA
+              Constandache Ștefan-Ionuț
             </div>
           </div>
           <div class="flex flex-row gap-4 items-center">
             <PhoneIcon />
-            <a href="tel:+TBA">
+            <a href="tel:+40754958408">
               <span
                 class="text-white text-right leading-trim text-edge-cap font-syne font-bold text-[14px] md:text-base"
               >
-                TBA</span
+                +40 754 958 408</span
               >
             </a>
           </div>
           <div class="flex flex-row gap-4 items-center">
             <MailIcon />
             <a
-              href="mailto:TBA@student.tuiasi.ro"
+              href="mailto:stefan-ionut.constandache@student.tuiasi.ro"
               target="_blank"
             >
               <span
                 class="text-white text-right leading-trim text-edge-cap font-syne font-bold text-[14px] md:text-base"
               >
-                TBA@student.tuiasi.ro</span
+                stefan-ionut.constandache@student.tuiasi.ro</span
               >
             </a>
           </div>
+          
+
+          <div class="flex flex-row gap-4 items-center">
+            <GuessIcon />
+            <div
+              class="text-white text-right leading-trim text-edge-cap font-syne font-bold text-[14px] md:text-base"
+            >
+              Mărănducă Andrei
+            </div>
+          </div>
+          <div class="flex flex-row gap-4 items-center">
+            <PhoneIcon />
+            <a href="tel:+40740889420">
+              <span
+                class="text-white text-right leading-trim text-edge-cap font-syne font-bold text-[14px] md:text-base"
+              >
+                +40 740 889 420</span
+              >
+            </a>
+          </div>
+          <div class="flex flex-row gap-4 items-center">
+            <MailIcon />
+            <a
+              href="mailto:andrei.maranduca@student.tuiasi.ro"
+              target="_blank"
+            >
+              <span
+                class="text-white text-right leading-trim text-edge-cap font-syne font-bold text-[14px] md:text-base"
+              >
+                andrei.maranduca@student.tuiasi.ro</span
+              >
+            </a>
+          </div>
+
+          <div class="flex flex-row gap-4 items-center">
+            <GuessIcon />
+            <div
+              class="text-white text-right leading-trim text-edge-cap font-syne font-bold text-[14px] md:text-base"
+            >
+              Mateiuc Bianca-Florentina
+            </div>
+          </div>
+          <div class="flex flex-row gap-4 items-center">
+            <PhoneIcon />
+            <a href="tel:+40755833900">
+              <span
+                class="text-white text-right leading-trim text-edge-cap font-syne font-bold text-[14px] md:text-base"
+              >
+                +40 755 833 900</span
+              >
+            </a>
+          </div>
+          <div class="flex flex-row gap-4 items-center">
+            <MailIcon />
+            <a
+              href="mailto:bianca-florentina.mateiuc@student.tuiasi.ro"
+              target="_blank"
+            >
+              <span
+                class="text-white text-right leading-trim text-edge-cap font-syne font-bold text-[14px] md:text-base"
+              >
+                bianca-florentina.mateiuc@student.tuiasi.ro</span
+              >
+            </a>
+          </div>
+
+
         </div>
       </div>
 

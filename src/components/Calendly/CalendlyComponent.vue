@@ -8,6 +8,8 @@ import Volei from "./../../assets/img/volei.jpeg";
 import Chess from "./../../assets/img/chess.jpeg";
 import Table from './../../assets/img/table.jpg'
 import Remi from './../../assets/img/remi.jpeg'
+import Baschet from './../../assets/img/baschet.jpeg'
+import Badminton from './../../assets/img/badminton.jpg'
 </script>
 
 <template>
@@ -31,22 +33,22 @@ import Remi from './../../assets/img/remi.jpeg'
         taxa="MINIM 150 RON/echipă"
       />
       
-      <!-- <SportCard
-        title="Biliard"
-        text="Biliardul, un joc îndrăgit de studenți este un moment în care jucătorii își arată îndemânarea și finețea. În așteptarea rândului propriu, printre bile și tac se strecoară și discuții care vor lega prietenii, deși doar unul dintre cei doi jucători va merge mai departe."
-        :imageSrc="Biliard"
-        locatie="TBA"
-        data="10 Aprilie"
-        taxa="10 RON/jucător"
-      /> -->
+       <SportCard
+        title="Baschet 3x3"
+        text="Baschetul 3x3 este un joc rapid și intens, care se joacă pe un teren mai mic și cu doar trei jucători pe fiecare echipă. Fiecare echipă încearcă să înscrie cât mai multe puncte într-un timp limitat, iar jocul este plin de acțiune și de momente spectaculoase."
+        :imageSrc="Baschet"
+        locatie="Sala De Sport - Tudor Vladimirescu"
+        data="16 mai"
+        taxa="MINIM 60 RON/echipă"
+      />
 
       <SportCard
       title="Ping Pong"
       text="Mingile sunt aruncate, iar jucătorii răspund provocării adversarului. Ce trebuie să facă este să lase mingea în cădere o singură dată în terenul propriu și să o trimită imediat celuilalt. Câștigă cel care prezintă concentrare, reflexe agere și adună punctajul maxim: enjoy the ping-pong sound."
       :imageSrc="PingPong"
       locatie="Sala De Sport - Tudor Vladimirescu" 
-      data="16 mai"
-      taxa="MINIM 10 RON/jucător"
+      data="15 mai"
+      taxa="MINIM 15 RON/jucător"
       />
       
       <SportCard
@@ -54,8 +56,8 @@ import Remi from './../../assets/img/remi.jpeg'
       text="Un salt pentru minge înseamnă un salt pentru echipă. Voleiul este mai mult decât un joc, este o legătură între coechipieri și un moment trăit împreună ce îi unește spre același scop: victoria echipei."
       :imageSrc="Volei"
       locatie="Sala de Sport - Tudor Vladimirescu"
-      data="16 mai"
-      taxa="MINIM 150 RON/echipă"
+      data="17 mai"
+      taxa="MINIM 120 RON/echipă"
       />
 
       <SportCard
@@ -63,8 +65,8 @@ import Remi from './../../assets/img/remi.jpeg'
         text="Cu oponenți aleși sau nu, totul depinde de participant și de ce piese are pe tablă. Regulile sunt simple: scapă de duble și caută să cobori piesele pe tablă în suite sau perechi. Punctele adunate ne anunță câștigătorul, trust the process"
         :imageSrc="Remi"
         locatie="Sala de Lectură Camin T1-T2/T3-T4"
-        data="16 mai"
-        taxa="MINIM 10 RON/jucător"
+        data="17 mai"
+        taxa="MINIM 15 RON/jucător"
       />
 
       <SportCard
@@ -74,8 +76,8 @@ import Remi from './../../assets/img/remi.jpeg'
         It&apos;s not over until you win."
         :imageSrc="Chess"
         locatie="Sala de Lectură Camin T1-T2/T3-T4"
-        data="16 mai"
-        taxa="MINIM 10 RON/jucător"
+        data="17 mai"
+        taxa="MINIM 15 RON/jucător"
       />
 
       <SportCard
@@ -83,8 +85,8 @@ import Remi from './../../assets/img/remi.jpeg'
         text="Old, but gold: jocul de table, învățat de mulți în copilărie, rămâne unul dintre cele mai dorite activități. Zarurile sunt aruncate, piesele se adună în casă și se scot afară. Competiția este strânsă: primul care reușește este declarat câștigător, be quick!"
         :imageSrc="Table"
         locatie="Sala de Lectură Camin T1-T2/T3-T4"
-        data="16 mai"
-        taxa="MINIM 10 RON/jucător"
+        data="17 mai"
+        taxa="MINIM 15 RON/jucător"
       />
 
       <SportCard
@@ -92,9 +94,19 @@ import Remi from './../../assets/img/remi.jpeg'
         text="Crosul este un joc de echipă care îmbină distracția cu mișcarea. Fie că alergi singur sau în echipă, crosul este o provocare care te va face să te simți bine și să te bucuri de fiecare pas. Alergarea este un mod excelent de a-ți menține sănătatea și de a-ți îmbunătăți starea de spirit."
         :imageSrc="Cros"
         locatie="Campus - Tudor Vladimirescu"
-        data="16 mai"
-        taxa="MINIM 10 RON/jucător"
+        data="17 mai"
+        taxa="MINIM 15 RON/jucător"
       />
+      <SportCard
+        title="Badminton"
+        text="Badmintonul este un joc de echipă care îmbină distracția cu mișcarea. Fie că alergi singur sau în echipă, badmintonul este o provocare care te va face să te simți bine și să te bucuri de fiecare pas. Alergarea este un mod excelent de a-ți menține sănătatea și de a-ți îmbunătăți starea de spirit."
+        :imageSrc="Badminton"
+        locatie="Campus - Tudor Vladimirescu"
+        data="17 mai"
+        taxa="MINIM 15 RON/jucător"
+      />
+
+
       
     </div>
   </div>
