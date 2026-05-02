@@ -28,8 +28,8 @@ import Badminton from './../../assets/img/badminton.jpg'
         title="Fotbal"
         text="Run for your team and make it easy. Fotbalul este un joc de echipă - odată ce echipa și-a stabilit pozițiile și energia, mingea poate fi urmărită și ghidată spre un gol ce poate face diferența în ultimul minut."
         :imageSrc="Fotbal"
-        locatie="Teren Sintetic - Campus Tudor Vladimirescu"
-        data="16 mai"
+        locatie="Teren de fotbal sintetic - La Locomotivă"
+        data="17 mai"
         taxa="MINIM 150 RON/echipă"
       />
       
@@ -38,7 +38,7 @@ import Badminton from './../../assets/img/badminton.jpg'
         text="Baschetul 3x3 este un joc rapid și intens, care se joacă pe un teren mai mic și cu doar trei jucători pe fiecare echipă. Fiecare echipă încearcă să înscrie cât mai multe puncte într-un timp limitat, iar jocul este plin de acțiune și de momente spectaculoase."
         :imageSrc="Baschet"
         locatie="Sala De Sport - Tudor Vladimirescu"
-        data="16 mai"
+        data="17 mai"
         taxa="MINIM 60 RON/echipă"
       />
 
@@ -55,9 +55,9 @@ import Badminton from './../../assets/img/badminton.jpg'
       title="Volei"
       text="Un salt pentru minge înseamnă un salt pentru echipă. Voleiul este mai mult decât un joc, este o legătură între coechipieri și un moment trăit împreună ce îi unește spre același scop: victoria echipei."
       :imageSrc="Volei"
-      locatie="Sala de Sport - Tudor Vladimirescu"
-      data="17 mai"
-      taxa="MINIM 120 RON/echipă"
+      locatie="Sala De Sport - Tudor Vladimirescu"
+      data="16 mai"
+      taxa="MINIM 150 RON/echipă"
       />
 
       <SportCard
@@ -65,7 +65,7 @@ import Badminton from './../../assets/img/badminton.jpg'
         text="Cu oponenți aleși sau nu, totul depinde de participant și de ce piese are pe tablă. Regulile sunt simple: scapă de duble și caută să cobori piesele pe tablă în suite sau perechi. Punctele adunate ne anunță câștigătorul, trust the process"
         :imageSrc="Remi"
         locatie="Sala de Lectură Camin T1-T2/T3-T4"
-        data="17 mai"
+        data="16 mai"
         taxa="MINIM 15 RON/jucător"
       />
 
@@ -76,7 +76,7 @@ import Badminton from './../../assets/img/badminton.jpg'
         It&apos;s not over until you win."
         :imageSrc="Chess"
         locatie="Sala de Lectură Camin T1-T2/T3-T4"
-        data="17 mai"
+        data="15 mai"
         taxa="MINIM 15 RON/jucător"
       />
 
@@ -85,7 +85,7 @@ import Badminton from './../../assets/img/badminton.jpg'
         text="Old, but gold: jocul de table, învățat de mulți în copilărie, rămâne unul dintre cele mai dorite activități. Zarurile sunt aruncate, piesele se adună în casă și se scot afară. Competiția este strânsă: primul care reușește este declarat câștigător, be quick!"
         :imageSrc="Table"
         locatie="Sala de Lectură Camin T1-T2/T3-T4"
-        data="17 mai"
+        data="16 mai"
         taxa="MINIM 15 RON/jucător"
       />
 
@@ -94,15 +94,15 @@ import Badminton from './../../assets/img/badminton.jpg'
         text="Crosul este un joc de echipă care îmbină distracția cu mișcarea. Fie că alergi singur sau în echipă, crosul este o provocare care te va face să te simți bine și să te bucuri de fiecare pas. Alergarea este un mod excelent de a-ți menține sănătatea și de a-ți îmbunătăți starea de spirit."
         :imageSrc="Cros"
         locatie="Campus - Tudor Vladimirescu"
-        data="17 mai"
+        data="16 mai"
         taxa="MINIM 15 RON/jucător"
       />
       <SportCard
         title="Badminton"
         text="Badmintonul este un joc de echipă care îmbină distracția cu mișcarea. Fie că alergi singur sau în echipă, badmintonul este o provocare care te va face să te simți bine și să te bucuri de fiecare pas. Alergarea este un mod excelent de a-ți menține sănătatea și de a-ți îmbunătăți starea de spirit."
         :imageSrc="Badminton"
-        locatie="Campus - Tudor Vladimirescu"
-        data="17 mai"
+        locatie="Sala De Sport - Tudor Vladimirescu"
+        data="15 mai"
         taxa="MINIM 15 RON/jucător"
       />
 

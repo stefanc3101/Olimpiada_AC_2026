@@ -60,14 +60,13 @@
         <p
           class="text-silver font-rubik text-base font-normal leading-[154.5%] tracking-[0.99px]"
         >
-        Olimpiada AC este un eveniment caritabil, ce reunește sporturile îndrăgite de studenți și ne aduce mai aproape de spiritul de echipă. 
-        Indiferent de regulile jocurilor și de dorința tuturor de a participa la anumite sporturi, împreună avem același obiectiv: să dăruim din puținul nostru. 
-        Prin seria de jocuri sportive, dorim să strângem fonduri pentru 2 cauze: Centrul de Asistență Socială Bucium și Asociația de Întrajutorare Prietenii lui David💙🤍 
-        Fiecare joc ales contribuie la sprijinul lor și la clădirea speranței că generozitatea nu are niciodată limite. Vino alături de noi să facem diferența! 
-        Dacă doriți să ajutați la aceste cauze, o puteți face aici cu mențiunea "Donație OlimpiadaAC"
+        Olimpiada AC este un eveniment caritabil care aduce împreună sporturile îndrăgite de studenți și ne apropie de spiritul de echipă. Indiferent de jocul ales sau de nivelul de experiență, toți participanții contribuie la același scop: acela de a face bine prin implicare.
+Prin această serie de activități sportive, ne propunem să strângem fonduri pentru Centrul Maternal „Sf. Elena”  Fiecare participare înseamnă un pas înainte în sprijinirea mamelor și copiilor care au nevoie de ajutor.
+Fiecare joc ales contribuie la sprijinul acestei cauze și demonstrează că, împreună, putem face diferența. ✨
+Dacă doriți să ajutați această cauză, o puteți face aici cu mențiunea „Donație OlimpiadaAC”
         </p>
 
-        <a href="https://forms.gle/NDvn3rMMSeueZM7L8" class="mt-[30px] mb-[32px] xl:mb-0">
+        <a href="https://forms.gle/7rJrXiMvm7Maryim8" class="mt-[30px] mb-[32px] xl:mb-0">
           <button
             class="green-button flex gap-[10px] text-white text-center font-rubik text-[16px] font-semibold tracking-wider rounded-full bg-[#213B2A]"
           >
