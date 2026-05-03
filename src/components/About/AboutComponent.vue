@@ -1,7 +1,7 @@
 <template>
   <div class="max-w-[1140px] m-auto">
     <div class="flex flex-col-reverse items-center xl:flex-row">
-      <img src="../../assets/img/about.jpg" width="600vw" height="100%" alt="logo" class="" style="border-radius: 28px;"  />
+      <img src="../../assets/img/bord.webp" width="600vw" height="100%" alt="logo" class="" style="border-radius: 28px;"  />
 
       <div
         class="flex flex-col justify-center items-center text-center xl:justify-end xl:items-end xl:text-right pl-0 lg:pl-0 xl:pl-5 gap-4"
@@ -66,7 +66,7 @@ Fiecare joc ales contribuie la sprijinul acestei cauze și demonstrează că, î
 Dacă doriți să ajutați această cauză, o puteți face aici cu mențiunea „Donație OlimpiadaAC”
         </p>
 
-        <a href="https://forms.gle/7rJrXiMvm7Maryim8" class="mt-[30px] mb-[32px] xl:mb-0">
+        <a href="https://forms.gle/YYmB94JRmcdHSiP48" class="mt-[30px] mb-[32px] xl:mb-0">
           <button
             class="green-button flex gap-[10px] text-white text-center font-rubik text-[16px] font-semibold tracking-wider rounded-full bg-[#213B2A]"
           >

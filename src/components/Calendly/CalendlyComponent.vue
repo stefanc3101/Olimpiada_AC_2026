@@ -10,6 +10,7 @@ import Table from './../../assets/img/table.jpg'
 import Remi from './../../assets/img/remi.jpeg'
 import Baschet from './../../assets/img/baschet.jpeg'
 import Badminton from './../../assets/img/badminton.jpg'
+import Jocuri_Interactive from './../../assets/img/jocuri_interactive.png'
 </script>
 
 <template>
@@ -103,6 +104,14 @@ import Badminton from './../../assets/img/badminton.jpg'
         :imageSrc="Badminton"
         locatie="Sala De Sport - Tudor Vladimirescu"
         data="15 mai"
+        taxa="MINIM 15 RON/jucător"
+      />
+      <SportCard
+        title="Jocuri Interactive"
+        text="Jocurile interactive sunt o modalitate excelentă de a aduce oamenii împreună și de a crea amintiri de neuitat. Fie că este vorba despre un joc de societate, un joc video sau un joc de echipă, aceste activități sunt pline de distracție și de provocări care te vor face să te simți bine și să te bucuri de fiecare moment petrecut alături de prieteni."
+        :imageSrc="Jocuri_Interactive"
+        locatie="Spațiu dedicat"
+        data="17 mai"
         taxa="MINIM 15 RON/jucător"
       />
 

@@ -10,7 +10,7 @@
     </h1>
 
     <div class="pt-[64px]">
-      <a href="https://forms.gle/7rJrXiMvm7Maryim8">
+      <a href="https://forms.gle/YYmB94JRmcdHSiP48">
         <button
           class="green-button flex justify-center items-center gap-[10px] text-white text-center font-rubik text-[13px] font-bold uppercase tracking-wider rounded-full bg-[#213B2A]"
         >
