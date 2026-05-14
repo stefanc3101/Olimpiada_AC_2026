@@ -11,6 +11,7 @@ import Remi from './../../assets/img/remi.jpeg'
 import Baschet from './../../assets/img/baschet.jpeg'
 import Badminton from './../../assets/img/badminton.jpg'
 import Jocuri_Interactive from './../../assets/img/jocuri_interactive.png'
+import Catarat from './../../assets/img/catarat.jpg'
 </script>
 
 <template>
@@ -114,6 +115,15 @@ import Jocuri_Interactive from './../../assets/img/jocuri_interactive.png'
         data="16 mai"
         taxa="MINIM 15 RON/jucător"
       />
+      <SportCard
+        title="Cățărat x Jumpy"
+        text="Cățăratul și săritul sunt două activități care îmbină distracția cu mișcarea. Fie că alergi singur sau în echipă, aceste activități sunt o provocare care te va face să te simți bine și să te bucuri de fiecare pas."
+        :imageSrc="Catarat"
+        locatie="Jumpy"
+        data="16 mai"
+        taxa="MINIM 15 RON/jucător"
+      />
+
 
 
       
